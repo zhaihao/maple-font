@@ -46,7 +46,7 @@
   "nerd_font": {
     "enable": true,
     "version": "3.4.0",
-    "mono": true,
+    "mono": false,
     "use_font_patcher": true,
     "font_forge_bin": "/usr/bin/fontforge",
     "glyphs": [
