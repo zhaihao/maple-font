@@ -67,7 +67,6 @@
     "mono": false,
     "propo": false,
     "use_font_patcher": true,
-    "font_forge_bin": "/usr/bin/fontforge",
     "glyphs": [
       "--complete"
     ],
